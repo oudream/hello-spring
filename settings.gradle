@@ -1,0 +1,6 @@
+rootProject.name = 'hello-spring'
+
+include(':hello:starter-web1')
+include 'hello:web1'
+findProject(':hello:web1')?.name = 'web1'
+

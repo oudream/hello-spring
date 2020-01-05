@@ -1,0 +1,18 @@
+[submodule "referto/springBoot_atguigu"]
+	path = referto/springBoot_atguigu
+	url = https://github.com/cyhbyw/springBoot_atguigu.git
+[submodule "referto/eugen-tutorial"]
+	path = referto/eugen-tutorial
+	url = https://github.com/eugenp/tutorials.git
+[submodule "referto/spring-boot"]
+	path = referto/spring-boot
+	url = https://github.com/spring-projects/spring-boot.git
+[submodule "referto/spring-boot-examples"]
+	path = referto/spring-boot-examples
+	url = https://github.com/in28minutes/spring-boot-examples.git
+[submodule "referto/initializr"]
+	path = referto/initializr
+	url = https://github.com/spring-io/initializr.git
+[submodule "referto/start.spring.io"]
+	path = referto/start.spring.io
+	url = https://github.com/spring-io/start.spring.io.git
