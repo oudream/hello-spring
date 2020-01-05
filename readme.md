@@ -17,6 +17,16 @@ open https://start.spring.io/
 - https://github.com/spring-io/start.spring.io.git
 
 
+## Spring Boot Starter
+- https://docs.spring.io/spring-boot/docs/2.1.11.RELEASE/gradle-plugin/reference/html/
+- https://docs.spring.io/spring-boot/docs/2.1.11.RELEASE/reference/html/using-boot-build-systems.html
+
+
+## Spring Boot gradle
+- https://plugins.gradle.org/plugin/io.spring.dependency-management
+- https://github.com/spring-projects/spring-boot/tree/master/spring-boot-project/spring-boot-starters
+
+
 ## Spring Boot
 - spring-boot-samples: 
 ```shell

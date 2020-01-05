@@ -1,6 +1,10 @@
 rootProject.name = 'hello-spring'
 
 include(':hello:starter-web1')
+
 include 'hello:web1'
 findProject(':hello:web1')?.name = 'web1'
+
+include 'hello:hibernate2'
+findProject(':hello:hibernate2')?.name = 'hibernate2'
 
