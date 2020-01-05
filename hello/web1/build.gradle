@@ -24,3 +24,7 @@ dependencies {
     compile group: 'org.springframework.boot', name: 'spring-boot-maven-plugin', version: '2.2.2.RELEASE'
 
 }
+
+task wrapper(type: Wrapper) {
+    gradleVersion = '6.0.1'
+}
