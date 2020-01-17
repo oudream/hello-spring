@@ -16,3 +16,6 @@
 [submodule "referto/start.spring.io"]
 	path = referto/start.spring.io
 	url = https://github.com/spring-io/start.spring.io.git
+[submodule "referto/thinking-in-spring-boot-samples"]
+	path = referto/thinking-in-spring-boot-samples
+	url = https://github.com/mercyblitz/thinking-in-spring-boot-samples.git
