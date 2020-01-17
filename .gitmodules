@@ -1,6 +1,3 @@
-[submodule "referto/springBoot_atguigu"]
-	path = referto/springBoot_atguigu
-	url = https://github.com/cyhbyw/springBoot_atguigu.git
 [submodule "referto/eugen-tutorial"]
 	path = referto/eugen-tutorial
 	url = https://github.com/eugenp/tutorials.git
