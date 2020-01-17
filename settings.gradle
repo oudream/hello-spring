@@ -8,3 +8,6 @@ findProject(':hello:web1')?.name = 'web1'
 include 'hello:hibernate2'
 findProject(':hello:hibernate2')?.name = 'hibernate2'
 
+include 'hello:config1'
+findProject(':hello:config1')?.name = 'config1'
+
