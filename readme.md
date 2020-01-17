@@ -46,6 +46,8 @@ cd referto/spring-boot && git reset --hard 9d28238598b31c8e76a93a0cd4b8f7815b317
 - https://www.javatpoint.com/java-tutorial
 - [尚硅谷 SpringBoot 视频教学](https://github.com/cyhbyw/springBoot_atguigu)
 - [尚硅谷 SpringBoot 视频教学源码](https://www.youtube.com/playlist?list=PLmOn9nNkQxJEFsK2HVO9-WA55Z7LZ2N0S)
+- [尚硅谷 SpringCloud 视频教学](https://github.com/selierlin/SpringCloudDemo)
+- [尚硅谷 SpringCloud 视频教学源码](https://www.youtube.com/playlist?list=PLmOn9nNkQxJHsswu820sdU5LM1NMhpdk0)
 
 
 ## example
