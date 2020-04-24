@@ -16,3 +16,9 @@
 [submodule "referto/thinking-in-spring-boot-samples"]
 	path = referto/thinking-in-spring-boot-samples
 	url = https://github.com/mercyblitz/thinking-in-spring-boot-samples.git
+[submodule "demo/eladmin"]
+	path = demo/eladmin
+	url = https://github.com/elunez/eladmin.git
+[submodule "demo/eladmin-web"]
+	path = demo/eladmin-web
+	url = https://github.com/elunez/eladmin-web.git

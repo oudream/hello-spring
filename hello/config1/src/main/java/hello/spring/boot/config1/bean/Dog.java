@@ -1,5 +1,11 @@
 package hello.spring.boot.config1.bean;
 
+import java.lang.Class
+import java.lang.reflect.Method;
+import java.lang.reflect.Field;
+import java.lang.reflect.Constructor;
+
+
 public class Dog {
 
     private String name;
