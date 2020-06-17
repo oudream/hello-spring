@@ -11,6 +11,6 @@ findProject(':hello:hibernate2')?.name = 'hibernate2'
 include 'hello:config1'
 findProject(':hello:config1')?.name = 'config1'
 
-include 'hello:jdbc1'
-findProject(':hello:jdbc1')?.name = 'jdbc1'
+//include 'hello:jdbc1'
+//findProject(':hello:jdbc1')?.name = 'jdbc1'
 
